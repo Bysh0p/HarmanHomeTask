@@ -1,0 +1,17 @@
+C:\Data\HarmanHomeTask\bin\Release\net7.0\HarmanHomeTask.exe
+C:\Data\HarmanHomeTask\bin\Release\net7.0\HarmanHomeTask.deps.json
+C:\Data\HarmanHomeTask\bin\Release\net7.0\HarmanHomeTask.runtimeconfig.json
+C:\Data\HarmanHomeTask\bin\Release\net7.0\HarmanHomeTask.dll
+C:\Data\HarmanHomeTask\bin\Release\net7.0\HarmanHomeTask.pdb
+C:\Data\HarmanHomeTask\bin\Release\net7.0\RestSharp.dll
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.csproj.AssemblyReference.cache
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.AssemblyInfoInputs.cache
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.AssemblyInfo.cs
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.csproj.CoreCompileInputs.cache
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.csproj.CopyComplete
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.dll
+C:\Data\HarmanHomeTask\obj\Release\net7.0\refint\HarmanHomeTask.dll
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.pdb
+C:\Data\HarmanHomeTask\obj\Release\net7.0\HarmanHomeTask.genruntimeconfig.cache
+C:\Data\HarmanHomeTask\obj\Release\net7.0\ref\HarmanHomeTask.dll
